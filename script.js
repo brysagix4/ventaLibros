@@ -1,4 +1,6 @@
 // Datos de los productos con categorías
+//
+
 const productos = [
   {
     nombre: "Libro 1",
